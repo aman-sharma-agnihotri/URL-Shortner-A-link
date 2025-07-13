@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# URL Shortner A-link 
 
-## Getting Started
+ ## URL Shortner using Next.js, React.js, Tailwindcss, MongoDB Atlas, Node.js!
 
-First, run the development server:
+🚀 Just built & deployed my own URL Shortener — A-link! 🌐✨
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👉 A-link helps you shorten your long URLs in seconds — no signup, no hassle.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**✅ Fast and lightweight**
+**✅ Clean & simple UI**
+**✅ Custom short URLs**
+**✅ Copy-to-clipboard in one click**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## I built this project using:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**🟢 Next.js 14 (App Router)**
+**🟢 MongoDB Atlas for storing URLs**
+**🟢 TailwindCSS for styling**
+**🟢 Hosted on Vercel**
 
-## Learn More
+## 🔗 Features:
 
-To learn more about Next.js, take a look at the following resources:
+**Shorten URLs with your own custom alias.**
+**No login required — just paste, shorten, and share.**
+**Links are stored in MongoDB with duplicate-checking to avoid conflicts.**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## This was a great opportunity to practice:
 
-## Deploy on Vercel
+**Full-stack development with Next.js API routes**
+**Working with MongoDB & environment variables**
+**Building responsive and accessible UIs**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> ⚠️ **Important Notice**  
+> This project is part of Aman Sharma’s personal portfolio and is publicly available  
+> only for demonstration and recruiter evaluation purposes.  
+> **Do not copy, reuse, or redistribute any part of this code without permission.**  
+> Legal action may be taken in case of unauthorized use.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Live Demo
+[Click Here](https://a-link-gamma.vercel.app/)
+
+## License
+See the [LICENSE](./LICENSE) file for more details.
