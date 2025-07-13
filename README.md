@@ -6,7 +6,7 @@
 
 ## 👉 A-link helps you shorten your long URLs in seconds — no signup, no hassle.
 
-**✅ Fast and lightweight**  
+**✅ Fast and lightweight**
 
 **✅ Clean & simple UI**
 
