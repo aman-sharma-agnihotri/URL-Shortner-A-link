@@ -55,7 +55,7 @@ fetch("/api/generate", requestOptions)
             <button onClick={generate} className='bg-green-500 shadow-lg px-3 py-1 rounded-full text-white my-3 cursor-pointer hover:bg-green-400'>Generate</button>
         </div>
 {
-  generated && <><span className='font-bold text-lg'>Your Link</span><code id='copytext' className='hover:bg-yellow-300 px-3 py-1 rounded-full'><Link target="_blank" href={generated}>{generated}</Link></code></>
+  generated && <><span className='font-bold text-lg'>Your Link</span><code id='copytext' className='hover:bg-yellow-300 px-3 py-1 rounded-full overflow-scroll'><Link target="_blank" href={generated}>{generated}</Link></code></>
 }
 <button
         onClick={handleCopy}
